@@ -1,6 +1,6 @@
 # Python-Programs
 
-100 Day pyhton Programming
+100 Day python Programming
 
 >> Part 1: Python Basics (Day 1–20) 
 Focus: Variables, Data Types, Operators, Conditional Statements, Loops 
